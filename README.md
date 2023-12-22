@@ -13,5 +13,5 @@ Junior Full Stack Developer | MERN Maverick |
 
                                        ⚒️ Languages-Frameworks-Tools ⚒️
 
-                    ![Uploading image.png…]()
+                    https://www.google.com/url?sa=i&url=https%3A%2F%2Fshapemyskills.in%2Fcourses%2Fmern-stack-training%2F&psig=AOvVaw0lmySiuC1aJh_VdIVsUZCc&ust=1703340448819000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiohuqbo4MDFQAAAAAdAAAAABAD
 
