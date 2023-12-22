@@ -1,4 +1,4 @@
-![image](https://github.com/Ajith31kumar/Ajith31kumar/assets/142565103/a6fae77b-6cb3-4238-b875-0144106ef18f)Junior Full Stack Developer | MERN Maverick | 
+Junior Full Stack Developer | MERN Maverick | 
 
 
 👋 Hello, I'm Ajith Kumar, a dedicated and enthusiastic learner on a mission to become a proficient MERN Full Stack Developer. I've embarked on an exciting journey of self-improvement and exploration in the ever-evolving world of web development.
@@ -13,4 +13,5 @@
 
                                        ⚒️ Languages-Frameworks-Tools ⚒️
 
-                    
+                    ![Uploading image.png…]()
+
